@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #dbc3c3;
+}
+#likes{
+    width: 20%;
+}
+#red{
+    transform-origin: center bottom;
+}
+#heart{
+    transform-origin: center center;
+}
